@@ -52,7 +52,7 @@
 ### 🔥 &nbsp; My Stats :
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=rahul-312&theme=dark&background=000000" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=rahul-312&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
 </div>
 
