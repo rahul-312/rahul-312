@@ -22,7 +22,7 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Siddappanor Rahul</h1>
-<h3 align="center">Motivated software engineer with 1.3 year of experience, specializing in Python, Django, and database management. Skilled in tackling real-world challenges and eager to bring technical expertise and a collaborative spirit to a dynamic team environment.</h3>
+<h3 align="center">Motivated software engineer with 1.4 year of experience, specializing in Python, Django, and database management. Skilled in tackling real-world challenges and eager to bring technical expertise and a collaborative spirit to a dynamic team environment.</h3>
 
 ### 🛠 &nbsp;Languages and Tools :
 
