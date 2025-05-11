@@ -45,6 +45,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1024px-Bitbucket-blue-logomark-only.svg.png" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
+
 </p>
 
 ---
