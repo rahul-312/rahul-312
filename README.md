@@ -70,6 +70,5 @@ Motivated software engineer with 2 years of experience, specializing in Python, 
 
   <br/><br/>
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-312&theme=github_dark"/>
-
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-312&theme=github_dark&v=1"/>
 </div>
