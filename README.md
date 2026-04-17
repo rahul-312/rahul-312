@@ -42,7 +42,9 @@ Motivated software engineer with 2 years of experience, specializing in Python, 
   
   <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
   
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
   <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
