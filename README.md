@@ -19,7 +19,7 @@
 <h1 align="center">Hi 👋, I'm Siddappanor Rahul</h1>
 
 <h3 align="center">
-Motivated software engineer with 2 years of experience, specializing in Python, Django, and database management. Skilled in solving real-world problems and building scalable backend systems.
+Motivated software engineer with 2,5+ years of experience, specializing in Python, Django, and database management. Skilled in solving real-world problems and building scalable backend systems.
 </h3>
 
 ---
